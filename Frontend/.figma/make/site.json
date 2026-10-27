@@ -1,8 +1,8 @@
 {
-  "title": "Kaushal Setu",
-  "description": "Career guidance for the whole family.",
+  "title": "KAUSHAL SETU",
+  "description": "Helps Indian students and families explore vocational careers, compare options, address concerns with practical evidence, and build a shared learning plan.",
   "robots": {
-    "index": true
+    "index": false
   },
   "accessibility": {
     "addBypassLinks": false,
