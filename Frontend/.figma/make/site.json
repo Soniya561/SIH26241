@@ -1,7 +1,8 @@
 {
-  "description": "Explore vocational careers, compare training pathways, and work through family questions with evidence-based guidance for confident decisions.",
+  "title": "Kaushal Setu",
+  "description": "Career guidance for the whole family.",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
