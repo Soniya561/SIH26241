@@ -1,0 +1,10 @@
+{
+  "description": "Explore vocational careers, compare training pathways, and work through family questions with evidence-based guidance for confident decisions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
